@@ -117,13 +117,21 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700italic);
+@import url(//db.onlinewebfonts.com/c/0a88dd5603966a8e4ab49e3e0bdfc997?family=Crassula+Web);
 
 /*****************************************************
 *****************  2. General CSS  *******************
 *****************************************************/
-
+ @font-face {font-family: "Crassula Web"; src: url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.eot");
+	   src: url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.eot?#iefix") format("embedded-opentype"), 
+	   url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.woff2") format("woff2"), 
+	   url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.woff") format("woff"), 
+	   url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.ttf") format("truetype"), 
+	   url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.svg#Crassula Web") format("svg"); }
+	   
 body {
-    font-family: "Open Sans", Helvetica, sans-serif;
+   /* font-family: "Open Sans", Helvetica, sans-serif; */
+    font-family:"Crassula Web";
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 0.2px;
