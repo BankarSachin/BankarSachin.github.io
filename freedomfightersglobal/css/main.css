@@ -2341,7 +2341,9 @@ h5.heading-alt-style {
 .max-height {
     height: 100%
 }
-
+.box-height{
+	height: 590px;
+}
 
 /*===============================
  =========  2.3 Border  =========
