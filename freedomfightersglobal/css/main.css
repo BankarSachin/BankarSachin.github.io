@@ -159,6 +159,9 @@ img {
  .imagecontent{
 padding:20px !important;
  }
+ .padding16{
+ padding: 0 16%;
+ }
 /*===============================
  =======  2.1 Typograpgy  ======
 *===============================*/
