@@ -124,10 +124,10 @@
 *****************************************************/
  @font-face {font-family: "Crassula Web"; src: url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.eot");
 	   src: url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.eot?#iefix") format("embedded-opentype"), 
-	   url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.woff2") format("woff2"), 
-	   url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.woff") format("woff"), 
-	   url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.ttf") format("truetype"), 
-	   url("//db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.svg#Crassula Web") format("svg"); }
+	   url("https://db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.woff2") format("woff2"), 
+	   url("https://db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.woff") format("woff"), 
+	   url("https://db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.ttf") format("truetype"), 
+	   url("https://db.onlinewebfonts.com/t/0a88dd5603966a8e4ab49e3e0bdfc997.svg#Crassula Web") format("svg"); }
 
 /* Parent Container */
 .content-hover-img{
